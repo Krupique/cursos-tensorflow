@@ -1,3 +1,8 @@
+"""
+    Mais sobre padronização utilizando Tensorflow em:
+    https://towardsdatascience.com/how-to-normalize-features-in-tensorflow-5b7b0e3a4177
+"""
+
 #Carregando arquivo
 import pandas as pd
 base = pd.read_csv('dados/census.csv')
